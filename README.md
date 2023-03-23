@@ -1,0 +1,2 @@
+# Segmentation-win-rate-mlbb
+repositori ini berisi penerapan project machine learning untuk segementation win rate mobile legends adapun tahapan yang dilakukan antara lain, menyiapkan datasheet yang digunakan, melihat informasi data, melakukan pembersihan data, analisis statistik pada data, memilih fitur terbaik untuk di proses atau menggunakan teknik ekstraksi fitur untuk memperkecil ukuran data dan tahap terakhir membuat algoritma model
